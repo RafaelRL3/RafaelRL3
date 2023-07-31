@@ -35,7 +35,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRL3&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
-
+<br>
 <br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
