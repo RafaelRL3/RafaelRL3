@@ -27,11 +27,11 @@
 
 <br>
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/RafaelRL3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRL3&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/RafaelRL3">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRL3&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
