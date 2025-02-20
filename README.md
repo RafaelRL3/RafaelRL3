@@ -13,19 +13,28 @@ I am a 5th-year undergraduate at the [Centro de Informática, Universidade Feder
 - 🧔 Pronouns: [He/Him](https://pronoun.is/he).
 - 💡 Fun fact: My smartness comes from hard work 🏃, and I love cycling 🚴.
 
-### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRL3&theme=dark&hide_langs_below=1)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelRL3&show_icons=true&theme=dark&line_height=27)
+<br>
 
-### Connect with Me
+<br>
+<br>
 
-[![LinkedIn](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg)](https://www.linkedin.com/in/rafaelrl3/)
-[![Twitter](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg)](https://twitter.com/dos_labios)
-[![Instagram](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg)](https://www.instagram.com/rafaellabio1/)
-[![GitHub](https://cdn.svgporn.com/logos/github-icon.svg)](https://github.com/RafaelRL3)
-[![Gmail](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg)](mailto:rafellabio2@gmail.com)
+<a href="https://github.com/RafaelRL3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRL3&theme=dark&hide_langs_below=1" />
+</a>
 
+<a href="https://github.com/RafaelRL3">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRL3&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+<br>
+<br>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rafaelrl3/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dos_labios) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/rafaellabio1/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/RafaelRL3) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rafellabio2@gmail.com)
