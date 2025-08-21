@@ -1,46 +1,34 @@
-# Rafael dos Reis de Labio<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi! I am Rafael Labio
 
-## Hello World! 🌍
+![Profile Views](https://komarev.com/ghpvc/?username=RafaelRL3&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
-I am a 5th-year undergraduate at the [Centro de Informática, Universidade Federal de Pernambuco](https://portal.cin.ufpe.br/). I'm passionate about Software & Hardware Development and have a keen interest in design. I'm always striving to improve myself and seeking platforms to grow and excel.
+- 👨‍💻 Software Engineer
 
-### Currently
+<div align="center">
+  <a href="https://github.com/RafaelRL3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRL3&theme=aura_dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRL3&layout=compact&theme=aura_dark&langs_count=10&hide=Jupyter%20Notebook,HTML,CSS"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" >
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
+</div>
+  
+##
 
-- 🛌 Sleeping, working on my laptop 💻, or working out 💪.
-- 🐳 Learning to work with Docker.
-- 🤝 Open to collaborating on Python 🐍 and C++ 👩‍💻 projects.
-- 🏴‍☠️ Ask me about why I like One Piece 👒.
-- 🧔 Pronouns: [He/Him](https://pronoun.is/he).
-- 💡 Fun fact: My smartness comes from hard work 🏃, and I love cycling 🚴.
+<div>
+  <a href="mailto:rafellabio2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaelrl3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://rafaelrl3.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" target="_blank"></a> 
+</div>
 
-
-<br>
-
-<br>
-<br>
-
-<a href="https://github.com/RafaelRL3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRL3&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/RafaelRL3">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRL3&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-<br>
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rafaelrl3/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/dos_labios) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/rafaellabio1/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/RafaelRL3) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rafellabio2@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
-
-
-<br>
-
-<br>
+![](https://hit.yhype.me/github/profile?account_id=1849174)
